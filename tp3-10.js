@@ -7,3 +7,5 @@ function convertCelsiusToFahrenheit(gC) {
 var gCin = prompt("Ingrece la temperatura en celcius: ");
 gCin = parseInt(gCin);
 console.log("La temperatura en Fahrenheit es: " + convertCelsiusToFahrenheit(gCin) + "°F.");
+
+Aiti te amo
