@@ -1,0 +1,9 @@
+como subir cambios a git ?
+
+1 hacer los cambios que necesitamos en la consola o terminal
+
+2 git add o git add "nombre del archivo"
+
+3 git commit -m "agregando los pasos de git"
+
+4 git push origin main 
